@@ -1,4 +1,4 @@
-# Gerenciador-de-Tarefas-em-Python
+# Gerenciador de tarefas em Python
 
 Aplicação de linha de comando que permite criar, listar, atualizar e excluir tarefas, com dados salvos em um arquivo JSON. O projeto demonstra conhecimentos intermediários em Python, incluindo orientação a objetos, manipulação de arquivos e interação via terminal.
 
